@@ -1,4 +1,4 @@
-# Exponential Loss Optimizers
+# Testing Optimizers
 
 This repository implements a variety of classical optimization algorithms to train a linear classifier with **exponential loss** on a steganography dataset (1000 cover images vs. 1000 stego images, each with 136 standardized features plus a bias term).
 
